@@ -1,0 +1,23 @@
+.cardContent{
+    width:600px;
+    height:600px;
+}
+ .characterimg {
+    
+        /* float: left; */
+        border-radius:150px;
+        left: -20px;
+        top:-10px;
+        width:300px;
+        height:300px;
+      
+} 
+
+
+.characterContent{
+  /* display: flex; */
+
+  background: #333944;
+  /* width:500px;
+    height:500px; */
+}
